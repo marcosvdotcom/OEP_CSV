@@ -16,7 +16,7 @@ This is a theme-based inquiry kit, based on our [inspiration from Maryland](http
 
 ## Layout 2: cards
 
-{% include feature/card.html header="Big Burn Collection" text="An image of Wallace burning from the U of I's Big Burn Collection. The Big Burn Collection  is an online exhibit of materials related to the 'Big Burn' fires of 1910 that devastated much of Northern Idaho and Northwest Montana. The collection includes photographs, documents, first-person accounts, and oral histories pertaining to the fires and the local and national responses to them." objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html" width="25" centered=true %}
+{% include feature/card.html header="Big Burn Collection" text="An image of Wallace burning from the U of I's Big Burn Collection. The Big Burn Collection  is an online exhibit of materials related to the 'Big Burn' fires of 1910 that devastated much of Northern Idaho and Northwest Montana. The collection includes photographs, documents, first-person accounts, and oral histories pertaining to the fires and the local and national responses to them." objectid="https://objects.lib.uidaho.edu/bigburn/bigburn23.jpg" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html" centered=true %}
 
 {% include feature/button.html text="View item" link="https://www.lib.uidaho.edu/digital/bigburn/items/bigburn23.html" color="success" centered=true %}
 
